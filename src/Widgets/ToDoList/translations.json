@@ -1,0 +1,18 @@
+{
+    "en": {
+        "newTask": "New task...",
+        "addTask": "Add task...",
+        "alertTitle": "Delete task ?",
+        "alertContent": "Are you sure you want to remove this task from the list ?",
+        "cancelButton": "Cancel",
+        "confirmButton": "OK"
+    },
+    "fr": {
+        "newTask": "Nouvelle tâche...",
+        "addTask": "Ajouter la tâche",
+        "alertTitle": "Supprimer la tâche ?",
+        "alertContent": "Êtes-vous sûr de vouloir retirer cette tâche de la liste ?",
+        "cancelButton": "Annuler",
+        "confirmButton": "Confirmer"
+    }
+}

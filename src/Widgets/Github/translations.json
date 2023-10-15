@@ -1,0 +1,20 @@
+{
+    "en": {
+        "githubIssues": "GitHub Issues",
+        "githubRepoOwner": "GitHub Repo Owner",
+        "githubRepoName": "GitHub Repo Name",
+        "personalAccessToken": "Personal Access Token",
+        "fetchIssues": "Fetch Issues",
+        "error": "Error",
+        "noIssuesFound": "No issues found."
+    },
+    "fr": {
+        "githubIssues": "Problèmes GitHub",
+        "githubRepoOwner": "Propriétaire du dépôt GitHub",
+        "githubRepoName": "Nom du dépôt GitHub",
+        "personalAccessToken": "Jeton d'accès personnel",
+        "fetchIssues": "Récupérer les problèmes",
+        "error": "Erreur",
+        "noIssuesFound": "Aucun problème trouvé."
+    }
+}

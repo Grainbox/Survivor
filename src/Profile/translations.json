@@ -1,0 +1,16 @@
+{
+    "en": {
+        "firstName": "First name",
+        "lastName": "Last name",
+        "email": "Email",
+        "birthDate": "Birth Date",
+        "work": "Work"
+    },
+    "fr": {
+        "firstName": "Prénom",
+        "lastName": "Nom de famille",
+        "email": "Email",
+        "birthDate": "Date de naissance",
+        "work": "Travail"
+    }
+}

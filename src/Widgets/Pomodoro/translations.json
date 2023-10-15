@@ -1,0 +1,20 @@
+{
+    "en": {
+        "pomodoroTime": "Pomodoro Time",
+        "breakTime": "Break Time",
+        "activityPomo": "POMODORO",
+        "activityBreak": "BREAK",
+        "startButton": "Start",
+        "pauseButton": "Pause",
+        "resetButton": "Reset"
+    },
+    "fr": {
+        "pomodoroTime": "Durée Pomodoro",
+        "breakTime": "Durée de la pause",
+        "activityPomo": "POMODORO",
+        "activityBreak": "PAUSE",
+        "startButton": "Début",
+        "pauseButton": "Pause",
+        "resetButton": "Réinitialisation"
+    }
+}

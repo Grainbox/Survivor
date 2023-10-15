@@ -1,0 +1,20 @@
+{
+    "en": {
+        "theme": "Dark Theme",
+        "logout": "Logout",
+        "alertTitle": "Logout",
+        "alertMessage": "Are you sure you want to log out?",
+        "cancelButton": "Cancel",
+        "logoutButton": "Logout",
+        "footerText": "©2023 - ME.inc - All rights reserved - TOS - v0.0.1"
+    },
+    "fr": {
+        "theme": "Mode Sombre",
+        "logout": "Déconnexion",
+        "alertTitle": "Déconnexion",
+        "alertMessage": "Êtes-vous sûr de vouloir vous déconnecter ?",
+        "cancelButton": "Annuler",
+        "logoutButton": "Déconnexion",
+        "footerText": "©2023 - ME.inc - Tous droits réservés - CGU - v0.0.1"
+    }
+}

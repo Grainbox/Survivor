@@ -1,0 +1,18 @@
+{
+    "en": {
+        "loginTitle": "Login",
+        "emailPlaceholder": "Email",
+        "passwordPlaceholder": "Password",
+        "loginButton": "Login",
+        "errorAlert": "Error",
+        "wrongCredentials": "Email or password incorrect"
+    },
+    "fr": {
+        "loginTitle": "Connexion",
+        "emailPlaceholder": "Email",
+        "passwordPlaceholder": "Mot de passe",
+        "loginButton": "Connexion",
+        "errorAlert": "Erreur",
+        "wrongCredentials": "Email ou mot de passe incorrect"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "en": {
+        "placeholder": "Enter city",
+        "weatherIn": "Weather in ",
+        "wind": "Wind: ",
+        "humidity": "Humidity: ",
+        "sunny": "Sunny",
+        "clear": "Clear",
+        "cloudy": "cloudy",
+        "partlyCloudy": "Partly cloudy",
+        "overcast": "Overcast",
+        "fog": "Fog",
+        "haze": "Haze",
+        "mist": "Mist",
+        "modRain": "Moderate rain",
+        "rain": "Rain shower",
+        "modOrHeavRain": "Moderate or heavy rain shower",
+        "thunderyRisk": "Thundery outbreaks possible",
+        "thunderStorm": "Thunderstorm"
+    },
+    "fr": {
+        "placeholder": "Entrez une ville",
+        "weatherIn": "Météo de ",
+        "wind": "Vent: ",
+        "humidity": "Humidité: ",
+        "sunny": "Ensoleillé",
+        "clear": "Éclaircies",
+        "cloudy": "Nuageux",
+        "partlyCloudy": "Partiellement nuageux",
+        "overcast": "Couvert",
+        "fog": "Brouillard",
+        "haze": "Brouillard",
+        "mist": "Brume",
+        "modRain": "Pluie modérée",
+        "rain": "Pluie",
+        "modOrHeavRain": "Pluies fortes ou modérées",
+        "thunderyRisk": "Risques orageux",
+        "thunderStorm": "Orages"
+    }
+}
